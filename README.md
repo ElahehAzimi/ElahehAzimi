@@ -37,25 +37,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vs-code&logoColor=white" alt="VS Code" />
 </div>
 
-### 📊 Quick Stats (Will update as I commit more!)
-- 📈 Committed to learning daily  
-- 💻 Exploring AI for business transformation  
-- 🎯 Goal: Junior Developer + AI Consultant 
 
-### 📬 Let's Connect!
-<div align="center">
-  <a href="https://linkedin.com/in/elahe-azimi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Zdxbzzz00">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:elahehazimi0027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/ElahehAzimi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <div align="center">
